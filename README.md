@@ -47,5 +47,8 @@ Lack Of Transparency: Most social media websites have no clear policies regardin
 Poor User Experience: Most social media websites use an outdated interface which makes it difficult for users to find information on them easily;
 # Value Proposition
 Trade digital currency on the social media web app and become a tech investor. The Social Media project is a platform that uses Blockchain technology to create a unique ecosystem for users and investors, who will be involved in the experience of financial services in real time. The project is built by a team of professionals who have proven their skills in this field. Social media gives everyone an access to the future financial market, financial index funds, trading directly on all major exchanges in real time with guaranteed income regardless of the dramatic fluctuations of all cryptocurrencies.
+# Connect with developers :
+Discord [Workspace](https://discord.gg/rPEsPzShd7)
+
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Arthemax/Social-Media">Social Media</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
